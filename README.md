@@ -1,5 +1,5 @@
-# Meta-LSTM-Prediction
-LSTM Stock Price Prediction model for Meta Stock using **Tensorflow** and **SciKit-Learn**
+<h1 align="center">Meta-LSTM-Prediction 📈</h1>
+<h3 align="center">LSTM Stock Price Prediction model for Meta Stock using **Tensorflow** and **SciKit-Learn**</h3>
 
 ## Methodology
 1. Load stock price data
